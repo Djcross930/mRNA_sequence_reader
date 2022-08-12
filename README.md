@@ -21,4 +21,4 @@ Example mRNA sequences:
 
 
 #### Q) What happens after the ribosome recognizes the mRNA sequence?
-#### A) The ribosome reads the mRNA sequence, similar to a loop, until it reaches AUG. AUG is the only recognized start codon, and this begins the process of translation. Then, the correct tRNA (transfer-RNA) molecule adds the proteins based of the 3 base pairs it reads. It does this by matching it up with its complimentary pairs. For example, ACG's complimentary pair is UGC. This is also known as its anti-codon. It does this until it recognizes a stop codon, then the process halts.
+#### A) The ribosome reads the mRNA sequence, similar to a loop, until it reaches AUG. AUG is the only recognized start codon, and this begins the process of translation. Then, the correct tRNA (transfer-RNA) molecule adds the protein that corresponds to the current codon in frame. It does this by matching it up with its complimentary pairs. For example, ACG's complimentary pair is UGC. This is also known as its anti-codon. It does this until it recognizes a stop codon, then the process halts, and you have a fully assembled protein!
